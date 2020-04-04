@@ -1,0 +1,2 @@
+class ProblemException(Exception):
+    pass
